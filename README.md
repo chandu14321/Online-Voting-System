@@ -56,7 +56,7 @@ middleware/    # Auth & error handling
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mern-online-voting-system.git
+git clone https://github.com/chandu14321/Online-Voting-System.git
 cd mern-online-voting-system
 ```
 
@@ -132,11 +132,7 @@ Live Demo: https://your-link.com
 
 ---
 
-## 📸 Screenshots
 
-*(Add UI screenshots here later for better impact)*
-
----
 
 ## 👨‍💻 Author
 
