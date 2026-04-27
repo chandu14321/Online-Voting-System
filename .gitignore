@@ -100,7 +100,7 @@ typings/
 
 # dotenv environment variables file
 .env
-
+.vs/
 # build folders
 dist/
 build/
