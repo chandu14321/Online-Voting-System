@@ -2,7 +2,6 @@ require('dotenv').config();
 
 const express = require('express');
 const cors = require('cors');
-const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 
 mongoose.set('strictQuery', false);
@@ -23,8 +22,6 @@ const app = express();
 const PORT = process.env.PORT || 4000;
 
 // Middleware
-const cors = require('cors');
-
 app.use(
   cors({
     origin: [
@@ -34,12 +31,17 @@ app.use(
     credentials: true,
   }),
 );
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 // Routes
 app.use('/api/auth', routes.auth);
 app.use('/api/polls', routes.poll);
+
+app.get('/', (req, res) => {
+  res.send('Voting API is running');
+});
 
 // 404 handler
 app.use((req, res, next) => {
