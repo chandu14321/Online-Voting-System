@@ -1,0 +1,14 @@
+1.
+mongod
+2.
+cd "C:\chandu\engineering\visual studio\Projects\mern-vote-master\server"
+$env:PATH="C:\tools\node-v12.22.12-win-x64;$env:PATH"
+npm install
+npm start
+
+3.
+$env:PATH="C:\tools\node-v12.22.12-win-x64;$env:PATH"
+cd client
+npm install
+npm start
+DATABASE=mongodb://127.0.0.1:27017/mern-vote
