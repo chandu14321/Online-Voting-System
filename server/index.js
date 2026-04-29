@@ -27,6 +27,7 @@ app.use(
     origin: [
       'http://localhost:3000',
       'https://online-voting-system-dusky-eight.vercel.app',
+      process.env.FRONTEND_URL,
     ],
     credentials: true,
   }),
