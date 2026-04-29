@@ -28,7 +28,7 @@ const HomePage = props => (
           lineHeight: '1.8',
         }}>
         Create polls, collect votes, and visualize results in a clean modern
-        interface inspired by Apple's minimalist design language.
+        interface
       </p>
     </section>
 
