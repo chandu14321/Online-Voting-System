@@ -8,7 +8,7 @@ Designed to simulate a scalable real-world voting application with secure backen
 
 # ✨ Live Demo
 
-🔗 https://paytm-project-tau.vercel.app/
+🔗 https://online-voting-system-dusky-eight.vercel.app/
 
 ---
 
@@ -38,35 +38,35 @@ Secure login and signup flow using JWT
 
 ### 🔐 Authentication & Security
 
-* JWT-based authentication
-* Protected routes
-* Secure user sessions
-* Backend validation and middleware architecture
+- JWT-based authentication
+- Protected routes
+- Secure user sessions
+- Backend validation and middleware architecture
 
 ### 🗳️ Voting System
 
-* Create polls dynamically
-* Vote in real time
-* Interactive poll result visualization
-* One-click voting interface
-* Dynamic vote updates
+- Create polls dynamically
+- Vote in real time
+- Interactive poll result visualization
+- One-click voting interface
+- Dynamic vote updates
 
 ### 🎨 Modern Frontend Experience
 
-* Apple-inspired minimalist UI
-* Glassmorphism design system
-* Responsive layout
-* Modern typography using Inter
-* Smooth hover animations
-* Clean card-based architecture
+- Apple-inspired minimalist UI
+- Glassmorphism design system
+- Responsive layout
+- Modern typography using Inter
+- Smooth hover animations
+- Clean card-based architecture
 
 ### ⚡ Scalable Backend Architecture
 
-* RESTful API structure
-* Modular Express architecture
-* MongoDB database integration
-* Organized controllers and middleware
-* Redux state management
+- RESTful API structure
+- Modular Express architecture
+- MongoDB database integration
+- Organized controllers and middleware
+- Redux state management
 
 ---
 
@@ -74,29 +74,29 @@ Secure login and signup flow using JWT
 
 ## Frontend
 
-* React.js
-* Redux
-* React Router
-* Chart.js
-* CSS3
-* Responsive Design
+- React.js
+- Redux
+- React Router
+- Chart.js
+- CSS3
+- Responsive Design
 
 ## Backend
 
-* Node.js
-* Express.js
-* JWT Authentication
-* Middleware Architecture
+- Node.js
+- Express.js
+- JWT Authentication
+- Middleware Architecture
 
 ## Database
 
-* MongoDB
-* Mongoose
+- MongoDB
+- Mongoose
 
 ## Deployment
 
-* Vercel (Frontend)
-* Render / Node Server
+- Vercel (Frontend)
+- Render / Node Server
 
 ---
 
@@ -104,16 +104,16 @@ Secure login and signup flow using JWT
 
 This project demonstrates practical experience with:
 
-* Full Stack MERN Development
-* Authentication & Authorization
-* Redux State Management
-* REST API Development
-* Secure Backend Design
-* Data Visualization
-* Responsive UI/UX Design
-* Component-Based Architecture
-* Frontend State Synchronization
-* Modern Web Application Structure
+- Full Stack MERN Development
+- Authentication & Authorization
+- Redux State Management
+- REST API Development
+- Secure Backend Design
+- Data Visualization
+- Responsive UI/UX Design
+- Component-Based Architecture
+- Frontend State Synchronization
+- Modern Web Application Structure
 
 ---
 
@@ -216,28 +216,28 @@ The frontend was redesigned with a modern premium UI inspired by Apple's design 
 
 ### Improvements Included
 
-* Minimal clean layout
-* Glassmorphism effects
-* Modern spacing system
-* Better visual hierarchy
-* Premium typography
-* Responsive mobile design
-* Interactive hover effects
-* Cleaner chart presentation
+- Minimal clean layout
+- Glassmorphism effects
+- Modern spacing system
+- Better visual hierarchy
+- Premium typography
+- Responsive mobile design
+- Interactive hover effects
+- Cleaner chart presentation
 
 ---
 
 # 📈 Future Improvements
 
-* Dark Mode
-* Realtime Voting with Socket.IO
-* Poll Expiration Timers
-* Admin Analytics Dashboard
-* User Profiles
-* Search & Filtering
-* Animated Statistics
-* Email Verification
-* Role-Based Admin Panel
+- Dark Mode
+- Realtime Voting with Socket.IO
+- Poll Expiration Timers
+- Admin Analytics Dashboard
+- User Profiles
+- Search & Filtering
+- Animated Statistics
+- Email Verification
+- Role-Based Admin Panel
 
 ---
 
