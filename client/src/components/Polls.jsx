@@ -23,7 +23,18 @@ class Polls extends Component {
 
     const polls = this.props.polls.map(poll => (
       <li onClick={() => this.handleSelect(poll._id)} key={poll._id}>
-        {poll.question}
+        <div
+          style={{
+            marginBottom: '1rem',
+            fontSize: '0.85rem',
+            color: '#6b7280',
+          }}>
+          Live Poll
+        </div>
+
+        <div style={{ fontSize: '1.1rem', lineHeight: '1.6' }}>
+          {poll.question}
+        </div>
       </li>
     ));
 
